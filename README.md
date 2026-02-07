@@ -29,7 +29,10 @@ Desarrolladora Fullstack con enfoque en Backend, con experiencia en PHP, Laravel
 - Corrección de bugs y soporte en producción.
 - Capacitación de pasantes en uso de servidores.
 
-### Desarrolladora PHP – Freelance (2025 - Actual)
+##Desarrolladora Web (Febrero-2025)
+-Rediseño de paginá web loyalmar https://loyalmar.com/
+
+### Desarrolladora PHP – Freelance (Mayo-2025)
 - Desarrollo de aplicaciones móviles (APK) para:
   - Citas médicas
   - Tienda online
