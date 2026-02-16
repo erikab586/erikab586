@@ -1,6 +1,6 @@
 # 👩‍💻 Erika Brito – Desarrolladora Fullstack
 
-Desarrolladora Fullstack con enfoque en Backend, con experiencia en PHP, Laravel y CodeIgniter, y conocimientos en Node.js, React.js y React Native. He trabajado en sistemas administrativos, POS, CRM, ERP y aplicaciones móviles, participando en todas las etapas: análisis, diseño, desarrollo, mantenimiento y soporte.
+Desarrolladora Fullstack con enfoque en Backend, con experiencia en PHP, Laravel y CodeIgniter, C#, y conocimientos en Node.js, React.js y React Native. He trabajado en sistemas administrativos, POS, CRM, ERP y aplicaciones móviles, participando en todas las etapas: análisis, diseño, desarrollo, mantenimiento y soporte.
 
 📍 Lajeado, RS – Brasil | Remoto  
 📧 erikabritooficial@gmail.com  
@@ -10,7 +10,8 @@ Desarrolladora Fullstack con enfoque en Backend, con experiencia en PHP, Laravel
 
 ## 🚀 Tecnologías
 
-- PHP, Laravel, CodeIgniter  
+- PHP, Laravel, CodeIgniter
+- C#
 - Node.js  
 - React.js, React Native  
 - MySQL, PostgreSQL  
