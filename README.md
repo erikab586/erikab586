@@ -2,7 +2,7 @@
 
 ## 💻 Desarrolladora Full Stack Senior | Tech Lead
 
-Ingeniera Informática con más de 6 años de experiencia en desarrollo de software, especializada en arquitectura backend, aplicaciones web y móviles, liderazgo técnico e infraestructura.
+8 Semestre de Ingeniera Informática con más de 6 años de experiencia en desarrollo de software, especializada en arquitectura backend, aplicaciones web y móviles, liderazgo técnico e infraestructura.
 
 📍 Florianópolis, SC - Brasil  
 🌎 Trabajo remoto  
